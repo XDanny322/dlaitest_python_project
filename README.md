@@ -17,3 +17,17 @@ This is a quick test on creating your own pip package and upload the pypi
     python setup.py sdist
     twine upload dist/*
     ```
+
+## Example client code
+
+```
+import boto3
+import json
+from dlaitest_python_project import Car
+
+print("HI")
+
+myride = Car("11","ii",6)
+myride.accelerate()
+print(myride.get_speed())
+```

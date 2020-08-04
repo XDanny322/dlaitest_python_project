@@ -9,7 +9,7 @@ setup(
     author="Danny Lai",  # Type in your name
     author_email="your.email@domain.com",  # Type in your E-Mail
     url="https://github.com/XDanny322/dlaitest_python_project",  # Provide either the link to your github or to your website
-    # download_url="https://github.com/user/reponame/archive/v_01.tar.gz",  # I explain this later on
+    download_url="https://github.com/user/reponame/archive/v_01.tar.gz",  # I explain this later on
     # keywords=[
     #     "SOME",
     #     "MEANINGFULL",
