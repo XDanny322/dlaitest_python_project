@@ -1,1 +1,19 @@
 # dlaitest_python_project
+
+This is a quick test on creating your own pip package and upload the pypi
+
+
+See
+- https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
+- https://marthall.github.io/blog/how-to-package-a-python-app/
+
+- Register for your account in pypi
+- `pip install -U pip setuptools twine`
+- Create your program / script
+- Package your script: `python setup.py sdist`
+- Upload to pypi:
+
+``` console
+python setup.py sdist
+twine upload dist/*
+```
