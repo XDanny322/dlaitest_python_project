@@ -1,6 +1,8 @@
 # dlaitest_python_project
 
-This is a quick test on creating your own pip package and upload the pypi
+This is a quick test on creating your own pip package and upload the pypi.
+
+https://pypi.org/project/dlaitest-python-project/
 
 ## See
 - https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
